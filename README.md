@@ -9,5 +9,5 @@ Primero conectamos el router principal al ordenador por la boca de configuracion
 
 En la red invitados usaremos la IP 192.168.33.0, esta red será sin contraseña, de manera que cualquier ususario pueda unirse a esta red, ya que no son usuarios fijos. En la red empresa utilizaremos la IP 192.168.22.0, en esta red si se utilizará contraseña, aunque los PCs no tendrán IP fija ya que cada vez que se conecten a la red se le asignará una mediante DHCP distinta. En cambio en la sala de descanso al PC que hay conectado se le asignará la misma IP que llevan las interfaces de los routers estáticamente.
 
-Después de configurar los routers con sus IPs, empezamos con la conexión de moviles en los routers, para ver que funciona correctamente. Y como observamos en las siguientes capturas, la conexión se realizó exitosamente.
+Después de configurar los routers con sus IPs, empezamos con la conexión de moviles en los routers, para ver que funciona correctamente. Y como observamos en las siguientes capturas, la conexión se realizó exitosamente. La red 22 se ve que se conecta perfectamente dando IP al igual que la 33
 
